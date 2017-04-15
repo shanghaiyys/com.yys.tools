@@ -1,0 +1,4 @@
+E:\TempProject\MyProjectTools\Com.Yys.Tools\OBJECT_CACHE_POOL\bin\Release\OBJECT_CACHE_POOL.dll
+E:\TempProject\MyProjectTools\Com.Yys.Tools\OBJECT_CACHE_POOL\bin\Release\OBJECT_CACHE_POOL.pdb
+E:\TempProject\MyProjectTools\Com.Yys.Tools\OBJECT_CACHE_POOL\obj\Release\OBJECT_CACHE_POOL.dll
+E:\TempProject\MyProjectTools\Com.Yys.Tools\OBJECT_CACHE_POOL\obj\Release\OBJECT_CACHE_POOL.pdb
